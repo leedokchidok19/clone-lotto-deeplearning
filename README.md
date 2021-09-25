@@ -1,6 +1,6 @@
 # clone-lotto-deeplearning
 로또 번호 딥러닝
----
+
 # 로또 번호 예측
 + 데이터 수집
   - 동행 복권-1회차부터 현재 회차까지   
@@ -23,7 +23,8 @@
 
 ---
 # Reference
-딥러닝 로또 번호 예측
-[로또 예측 사이트](https://animalface.site/lotto)
-참고 동영상 : [조코딩 유튜브 채널](https://www.youtube.com/watch?v=3G3zExNItj0)
-참고 문헌: [김태영님 블로그](https://tykimos.github.io/2020/01/25/keras_lstm_lotto_v895/)
+[로또 예측 사이트](https://animalface.site/lotto)    
+참고 동영상 : [조코딩 유튜브 채널](https://www.youtube.com/watch?v=3G3zExNItj0)   
+참고 문헌:
++ [김태영님 블로그](https://tykimos.github.io/2020/01/25/keras_lstm_lotto_v895/)    
++ [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
